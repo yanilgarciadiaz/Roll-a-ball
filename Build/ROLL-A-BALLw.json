@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll-a-ball",
+"dataUrl": "ROLL-A-BALLw.data.unityweb",
+"asmCodeUrl": "ROLL-A-BALLw.asm.code.unityweb",
+"asmMemoryUrl": "ROLL-A-BALLw.asm.memory.unityweb",
+"asmFrameworkUrl": "ROLL-A-BALLw.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
